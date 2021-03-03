@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">How\'s The Day</string>
+    <string name="city_id">GET CITY ID</string>
+    <string name="forecast_by_id">FORECAST BY ID</string>
+    <string name="forecast_by_name">FORECAST BY NAME</string>
+    <string name="type_city_name">Type city name..</string>
+</resources>
