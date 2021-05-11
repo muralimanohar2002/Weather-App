@@ -10,4 +10,6 @@ https://www.metaweather.com/api/
 - Person can search for weather report either by typing city name or through city unique ID which can be retrieved through app itself
 
 ## Full walkthrough of the app
+Click on image below to watch app demonstration uploaded on you tube:
+
 [![Weather-App](https://img.youtube.com/vi/kVddeYcdY8I/0.jpg)](https://www.youtube.com/watch?v=kVddeYcdY8I)
